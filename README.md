@@ -1,6 +1,6 @@
 # Snake DQN
 
-> Snake agent trained with Deep Q-Learning, comparing a linear Q-network with a deeper DQN. PyTorch, Pygame.
+> Snake agent trained with Deep Q-Learning, comparing a linear Q-network with a deeper DQN.
 
 ## Run
 
